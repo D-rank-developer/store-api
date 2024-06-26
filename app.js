@@ -1,6 +1,6 @@
 require("dotenv").config()
 //async errors
-require("express-async-errors")
+require("express-async-errors")// importing the packages
 const express = require("express");
 const app = express();
 
